@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(255, 255, 255);
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.CBG {
+    text-align:center ;
+}
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 5%;
+    margin:  10px 620px;
+}
+header {
+    background-color: palevioletred;
+}
+#pader {
+    padding: 30px;
+}
+#padder {
+    padding: 5px;
+}
+nav li {
+    font-size: 25px;
+}
